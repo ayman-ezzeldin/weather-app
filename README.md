@@ -41,7 +41,7 @@ npm run dev
 - `/ar` – Arabic version
 
 ## 📁 Folder Structure
-
+```bash
 weather-app/
 │
 ├── app/                # Next.js app router structure
@@ -54,7 +54,7 @@ weather-app/
 ├── styles/             # Tailwind and global styles
 ├── next.config.js      # Next.js config with i18n
 └── tailwind.config.js  # Tailwind setup
-
+```
 
 
 ## 📝 License
